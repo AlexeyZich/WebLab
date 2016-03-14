@@ -1,18 +1,31 @@
   .red-text {
+    font-family: Monospace;
     color: red;
+  }
+  h1 {
+    font-family: Helvetica, Monospace;
+    color: green;
+
   }
   h2 {
     font-family: Helvetica, Monospace;
+    color: black;
   }
   p {
     font-size: 16px;
-    font-family: Monospace;
+    font-family: Helvetica;
+    color: black;
   }
   .thick-green-border {
     border-color: green;
     border-width: 10px;
     border-style: solid;
     border-radius: 50%;
+  }
+  body {
+    background-color: white;
+    font-family: Monospace;
+    color: black;
   }
   .smaller-image {
     width: 100px;
